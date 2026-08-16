@@ -32,13 +32,13 @@ A pre-launch Welsh language learning platform, built end to end as the sole engi
 
 ## Open source
 
-### [mbeditor](https://github.com/<username>/mbeditor) &nbsp;·&nbsp; *Architect & Primary Maintainer*
+### [mbeditor](https://github.com/ojnoonan/mbeditor) &nbsp;·&nbsp; *Architect & Primary Maintainer*
 
 A browser-based Rails development and editing environment, published as a public Ruby gem. It replaced Notepad++ and Vim workflows and is now used by roughly 7 of 11 developers on the project. Maintained with automated frontend and backend tests, documentation and support for external contributions.
 
 [![Gem](https://img.shields.io/gem/v/mbeditor)](https://rubygems.org/gems/mbeditor)
 
-### [react-manifest-rails](https://github.com/<username>/react-manifest-rails) &nbsp;·&nbsp; *Sole Architect & Developer*
+### [react-manifest-rails](https://github.com/ojnoonan/react-manifest-rails) &nbsp;·&nbsp; *Sole Architect & Developer*
 
 Enables React delivery in a Node-less production environment by generating smaller, servable manifest bundles compatible with Rails / Sprockets — replacing much larger frontend bundles and improving load performance. Integrated into an enterprise application and actively maintained with automated testing and public documentation.
 
